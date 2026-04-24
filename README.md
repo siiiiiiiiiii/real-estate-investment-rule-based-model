@@ -164,9 +164,13 @@ This approach is also related to the later part of FIN446, which introduces **au
 
 ## Data Used
 
-The project uses Excel files stored locally in the `FINT400` and `FIN446` folders.
+The project uses Excel files uploaded to this GitHub repository. Some ETF-related files were originally stored in the local `FINT400` folder, but they are used here only as REIT and ETF data sources for this FIN446 real estate investment vehicle analysis.
 
 The ETF data files are used to evaluate the listed REIT vehicle, while the macro-financial files are used to evaluate the broader interest-rate and property-financing environment.
+
+### Data Source Note
+
+Although some ETF files contain `FINT400` in their file names, they are used in this project only as ETF and REIT data sources. The assignment itself is for **FIN446 Property Valuation, Funding and Finance**. The FIN446 macro-financial files are used to evaluate interest-rate conditions, mortgage financing costs, and broader funding pressure.
 
 ### ETF and REIT-Related Data
 
